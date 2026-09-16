@@ -4,27 +4,24 @@ de momento no hay contenido... pero las cosas de palacio van despacio </p> <br>
 
 
 
-
+<!--
 ## Sobre mis repos / About my repos
 
 ### Repo: xxxx
 <table>
 <tr>
-<td width="50%">
+<td width="50%" >
 
 ## ES
-
 > descripción `doc.doc`
-
 </td>
 
-<td width="65%">
+<td width="50%" >
 
 ## EN
-
 > description `doc.doc`
-
 </td>
+
 </tr>
 </table> 
 
