@@ -1,14 +1,14 @@
 ## Hola soy Ángela 👋
 <p> Si estás leyendo esto es que estas en mi github, <br>
-de momento no hay mucho que ver... pero las cosas de palacio van despacio </p> <br>
+de momento no hay contenido... pero las cosas de palacio van despacio </p> <br>
 
 
 
-<!--
+> <!--
 ## What changes
 <table>
 <tr>
-<td width="50%">
+<td width="100%">
 
 ## Before
 
@@ -16,7 +16,7 @@ de momento no hay mucho que ver... pero las cosas de palacio van despacio </p> <
 
 </td>
 
-<td width="50%">
+<td width="100%">
 
 ## After
 
