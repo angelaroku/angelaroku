@@ -3,7 +3,7 @@
 de momento no hay mucho que ver... pero las cosas de palacio van despacio </p> <br>
 <br>
 <br>
-
+<!--
 |   PDF's |   SRC's  | Otros |
 |----------|----------|-------|
 | Texto, fotos, indicaciones, etc. | <i>&nbsp; .zip </i> | otros ficheros relevantes |
